@@ -11,3 +11,5 @@ Exercise 2.3.3 - Reuse Code
 Exercise 2.4.2 - Checkerboard
 
 Exercise 2.5.2 - yearValue Input box added (run 2017 or 2018)
+
+Exercise 2.5.3 - Timer 
